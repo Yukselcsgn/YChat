@@ -4,8 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/YChat/app/src/main/res/drawable/about.xml" value="0.2105" />
+        <entry key="..\:/YChat/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
         <entry key="..\:/YChat/app/src/main/res/layout/activity_sign_in.xml" value="0.20416666666666666" />
         <entry key="..\:/YChat/app/src/main/res/layout/activity_sign_up.xml" value="0.20416666666666666" />
+        <entry key="..\:/YChat/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>

@@ -77,12 +77,12 @@
         <Button
             android:layout_width="150dp"
             android:layout_height="wrap_content"
-            android:id="@+id/buttonSignUp"
+            android:id="@+id/btnSignUp"
             android:layout_marginTop="10dp"
             android:padding="15dp"
             android:text="Sign Up"
             android:textAllCaps="false"
-            app:baclgroundTint="@color/design_default_color_secondary_variant"
+            app:backgroundTint="@color/design_default_color_secondary_variant"
             app:cornerRadius="8dp"/>
 
         <LinearLayout
@@ -109,7 +109,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/btnFacebook"
-                android:layout_marginEStart="4dp"
+                android:layout_marginStart="4dp"
                 android:layout_marginLeft="4dp"
                 android:layout_weight="1"
                 android:drawableLeft="@drawable/ic_facebook"
