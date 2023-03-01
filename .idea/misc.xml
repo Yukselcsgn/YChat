@@ -7,6 +7,10 @@
         <entry key="..\:/YChat/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
         <entry key="..\:/YChat/app/src/main/res/layout/activity_sign_in.xml" value="0.20416666666666666" />
         <entry key="..\:/YChat/app/src/main/res/layout/activity_sign_up.xml" value="0.20416666666666666" />
+        <entry key="..\:/YChat/app/src/main/res/layout/fragment_calls.xml" value="0.20416666666666666" />
+        <entry key="..\:/YChat/app/src/main/res/layout/fragment_chats.xml" value="0.20416666666666666" />
+        <entry key="..\:/YChat/app/src/main/res/layout/fragment_status.xml" value="0.20416666666666666" />
+        <entry key="..\:/YChat/app/src/main/res/layout/sample_show_user.xml" value="0.20416666666666666" />
         <entry key="..\:/YChat/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
       </map>
     </option>
