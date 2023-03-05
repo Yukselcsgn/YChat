@@ -5,13 +5,21 @@
       <map>
         <entry key="..\:/YChat/app/src/main/res/drawable/about.xml" value="0.2105" />
         <entry key="..\:/YChat/app/src/main/res/drawable/bg_et_message.xml" value="0.172" />
+        <entry key="..\:/YChat/app/src/main/res/drawable/bg_reciver.xml" value="0.172" />
+        <entry key="..\:/YChat/app/src/main/res/drawable/bg_sender.xml" value="0.172" />
+        <entry key="..\:/YChat/app/src/main/res/drawable/btn_bg.xml" value="0.172" />
+        <entry key="..\:/YChat/app/src/main/res/drawable/linear_bg.xml" value="0.172" />
         <entry key="..\:/YChat/app/src/main/res/layout/activity_chat_detail.xml" value="0.22" />
+        <entry key="..\:/YChat/app/src/main/res/layout/activity_group_chat.xml" value="0.20416666666666666" />
         <entry key="..\:/YChat/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/YChat/app/src/main/res/layout/activity_settings.xml" value="0.25" />
         <entry key="..\:/YChat/app/src/main/res/layout/activity_sign_in.xml" value="0.20416666666666666" />
         <entry key="..\:/YChat/app/src/main/res/layout/activity_sign_up.xml" value="0.20416666666666666" />
         <entry key="..\:/YChat/app/src/main/res/layout/fragment_calls.xml" value="0.20416666666666666" />
         <entry key="..\:/YChat/app/src/main/res/layout/fragment_chats.xml" value="0.20416666666666666" />
         <entry key="..\:/YChat/app/src/main/res/layout/fragment_status.xml" value="0.20416666666666666" />
+        <entry key="..\:/YChat/app/src/main/res/layout/sample_reciever.xml" value="0.75" />
+        <entry key="..\:/YChat/app/src/main/res/layout/sample_sender.xml" value="0.5" />
         <entry key="..\:/YChat/app/src/main/res/layout/sample_show_user.xml" value="0.20416666666666666" />
         <entry key="..\:/YChat/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
       </map>
