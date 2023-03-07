@@ -5,16 +5,17 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".SettingsActivity"
-    android:background="@drawable/w1">
+    android:background="@drawable/w1"
+    >
 
     <ImageView
+        android:id="@+id/backArrow"
         android:layout_width="30dp"
         android:layout_height="30dp"
-        android:id="@+id/backArrow"
         android:layout_marginStart="10dp"
         android:layout_marginLeft="10dp"
         android:layout_marginTop="10dp"
-        android:srcCompat="@drawable/leftarrowwhite"/>
+        android:src="@drawable/leftarrowwhite" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -46,7 +47,7 @@
             android:layout_marginStart="30dp"
             android:layout_marginLeft="30dp"
             android:layout_marginTop="-25dp"
-            android:srcCompat="@drawable/plus"/>
+            android:src="@drawable/plus"/>
 
         <LinearLayout
             android:layout_width="match_parent"
